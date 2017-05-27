@@ -1,0 +1,22 @@
+/* main.css */
+
+html {
+	background-color: blue;
+}
+
+header {
+	color: coral;
+}
+
+body.nav {
+	color: red;
+	display: block;
+}
+
+h1 {
+	color: coral;
+}
+
+p {
+	color: coral;
+}
