@@ -13,6 +13,24 @@ body.nav {
 	display: block;
 }
 
+#writing {
+	font-weight: normal;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+#bold {
+	text-decoration: bold;
+}
+
+#italic {
+	text-decoration: italic;
+}
+
+#underline {
+	text-decoration: underline;
+}
+
 h1 {
 	color: coral;
 }
