@@ -1,0 +1,13 @@
+WRITER’S BLOCK LINKS:
+
+
+
+https://www.digitalocean.com/community/tutorials/an-introduction-to-jquery - introduction to jQuery
+
+
+
+https://code.tutsplus.com/tutorials/uploading-files-with-ajax--net-21077 - AJAX file upload introduction
+
+http://www.ajaxf1.com/tutorial/ajax-file-upload-tutorial.html# - another AJAX file upload tutorial
+
+http://blog.teamtreehouse.com/uploading-files-ajax - uploading files with AJAX
